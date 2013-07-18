@@ -28,7 +28,7 @@ under the License.
   <groupId>org.jenkins-ci.lib</groupId>
   <artifactId>lib-jenkins-maven-embedder</artifactId>
   <name>Jenkins Maven Embedder</name>
-  <version>3.10-SNAPSHOT</version>
+  <version>3.9.0-SNAPSHOT</version>
   
   <prerequisites>
     <maven>3.0</maven>
